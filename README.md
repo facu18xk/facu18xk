@@ -51,12 +51,8 @@ Joined Github **3** years ago.
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, listening to podcasts, sailing, running, lifting heavy sh*t.
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>   
-  <br />	
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=facu18xk)](https://git.io/streak-stats)
-</details>
-
+### ☄️ Github Streaks
+[![GitHub Streak](https://streak-stats.demolab.com?user=facu18xk&theme=dark)](https://git.io/streak-stats)
 <details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
